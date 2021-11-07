@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishwaszadte
-- 👀 I’m interested in Software Development, Data Science and Machine Learning
-- 🌱 I'm currently a B. Tech student in Pune.
+- 👀 Interested interested in Software Development
+- 🌱 Currently a B. Tech undergraduate in Pune.
 
 <!---
 vishwaszadte/vishwaszadte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
