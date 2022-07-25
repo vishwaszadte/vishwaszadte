@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwas</h1>
-<h3 align="center">A passionate fullstack developer from Pune, India.</h3>
+<h3 align="center">A passionate Full Stack Developer and a B. Tech student from Pune, India.</h3>
 
 - 🔭 I’m currently working on [E-commerce Web App](https://github.com/vishwaszadte/e-commerce-app-project)
 
