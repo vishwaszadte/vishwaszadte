@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [E-commerce Web App](https://github.com/vishwaszadte/e-commerce-app-project)
 
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, Data Structures & Algorithms**
+- 🌱 I’m currently learning **React, Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://vishwaszadte.vercel.app](https://vishwaszadte.vercel.app)
 
