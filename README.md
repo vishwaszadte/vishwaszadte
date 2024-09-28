@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [fmon](https://github.com/vishwaszadte/fmon)
 
-- 🌱 I’m currently learning **Golang,React Native**
+- 🌱 I’m currently learning **Golang, React Native**
 
 - 📫 How to reach me **vishwaszadte@gmail.com**
 
